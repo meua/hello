@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T06:07:29.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IX5dIKkjJYapv6bvIycu" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T06:10:26.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0vnzR8KenNzwigBFRwoq" version="22.1.16" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="1687" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry x="520" y="302.00000000000006" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L3lj_wClFnJjA9AVwsPd-72" value="&lt;b&gt;Challenge based Workers&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="L3lj_wClFnJjA9AVwsPd-43">
-          <mxGeometry x="330" y="-17.199999999999932" width="76" height="70" as="geometry" />
+          <mxGeometry x="257" y="-14.2" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="L3lj_wClFnJjA9AVwsPd-47" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="770" y="680" width="310.47" height="200" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry x="296.77" y="183" width="74" height="50" as="geometry" />
         </mxCell>
         <mxCell id="L3lj_wClFnJjA9AVwsPd-71" value="&lt;b&gt;Challenge based Workers&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="L3lj_wClFnJjA9AVwsPd-49">
-          <mxGeometry x="216.76999999999998" y="120.00000000000006" width="76" height="70" as="geometry" />
+          <mxGeometry x="131" y="130" width="162.77" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L3lj_wClFnJjA9AVwsPd-51" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowNE;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="644.03" y="700" width="71.47" height="40.84" as="geometry" />
@@ -130,11 +130,11 @@
         <mxCell id="L3lj_wClFnJjA9AVwsPd-61" value="&lt;b&gt;S3 BUCKET&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="549.9999999999999" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L3lj_wClFnJjA9AVwsPd-62" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Auto Scale&lt;br&gt;Django&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="715.5" y="647.1999999999999" width="80" height="30" as="geometry" />
+        <mxCell id="L3lj_wClFnJjA9AVwsPd-62" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Auto Scale Django&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="640" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L3lj_wClFnJjA9AVwsPd-70" value="&lt;b&gt;Challenge based Workers&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="508.42" width="76" height="70" as="geometry" />
+          <mxGeometry x="1302" y="517" width="166" height="58.42" as="geometry" />
         </mxCell>
         <mxCell id="L3lj_wClFnJjA9AVwsPd-73" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.secureConnection;fillColor=#000000;strokeColor=#ffffff;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="896" width="56.99999999999999" height="34" as="geometry" />
